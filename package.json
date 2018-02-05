@@ -1,5 +1,5 @@
 {
-  "name": "aws-node-restapi-mongodb",
+  "name": "serverless-aws-node-rest-api-mongodb",
   "version": "1.0.0",
   "description": "Serverless REST API with MongoDB using Mongoose and Bluebird",
   "main": "handler.js",
