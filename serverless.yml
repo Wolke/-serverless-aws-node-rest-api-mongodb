@@ -1,4 +1,4 @@
-service: aws-node-rest-api-mongodb
+service: serverless-aws-node-rest-api-mongodb
 
 provider:
   name: aws
